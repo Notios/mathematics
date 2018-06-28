@@ -1,2 +1,5 @@
-# mathematics
-Various Μathematical Αlgorithms
+# Mathematics
+## Various Μathematical Αlgorithms
+* Linear Algebra
+* Series
+* Trigonometry
